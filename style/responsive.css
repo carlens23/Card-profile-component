@@ -1,0 +1,6 @@
+@media screen and (min-height: 360px) {
+    .card {
+        width: 0.5rem;
+        padding-right: 5px;
+    }    
+}
